@@ -1,0 +1,182 @@
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="www.spasignature.co.ke" resolutions="1x" timestamp="1482491215743">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="master_a-master.css" crc="4151890041" ref="index"/>
+    <file name="nomq_preview_master_a-master.css" crc="3892340115" ref="index"/>
+    <file name="index.css" crc="244153779" ref="index"/>
+    <file name="nomq_index.css" crc="184610533" ref="index"/>
+    <file name="iefonts_index.css" crc="3824530138" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="_fresh_footer.psd" crc="443166379" seo="true" mt="1370423738000"/>
+    <file name="untitled-2.svgz" crc="443115960" seo="true" mt="1481027816000"/>
+    <file name="beauty-products.png" crc="4277681858" seo="true" mt="1481880741000"/>
+    <file name="beeds---jewelry.png" crc="3792388129" seo="true" mt="1481880586000"/>
+    <file name="body-splash.png" crc="3921702032" seo="true" mt="1481880382000"/>
+    <file name="ladies-perfumes.png" crc="4184426465" seo="true" mt="1481880268000"/>
+    <file name="mens-perfumes.png" crc="4049137053" seo="true" mt="1481879881000"/>
+    <file name="watches.png" crc="52434371" seo="true" mt="1481880655000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="163421577" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="168988563" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="379354253" ref="index"/>
+    <file name="jquery.watch.js" crc="104486786" ref="index"/>
+    <file name="webpro.js" crc="3848665353" ref="index"/>
+    <file name="musewpslideshow.js" crc="4041717617" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="36492500" ref="index"/>
+    <file name="touchswipe.js" crc="404375771" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="4146931122" ref="index"/>
+    <file name="require.js" crc="244322403" ref="index"/>
+    <file name="musewpdisclosure.js" crc="4275188064" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="u13112-6.png" crc="466893895" ref="index"/>
+    <file name="google-icon-svg.svg" crc="3924643800" seo="true" ref="index"/>
+    <file name="google icon svg_poster_.png" crc="62325070" ref="index"/>
+    <file name="arrow486.svg" crc="4280982976" seo="true" ref="index"/>
+    <file name="arrow486_poster_.png" crc="151814341" ref="index"/>
+    <file name="twitter-svg.svg" crc="4263143496" seo="true" ref="index"/>
+    <file name="twitter svg_poster_.png" crc="4042924295" ref="index"/>
+    <file name="facebook-site.svg" crc="4078805258" seo="true" ref="index"/>
+    <file name="facebook site_poster_.png" crc="4041706851" ref="index"/>
+    <file name="img_3175.jpg" crc="24895756" ref="index"/>
+    <file name="pink-sparkles-2-upside-down.png" crc="399325081" ref="index"/>
+    <file name="spa-logo-option.png" crc="338326146" seo="true" ref="index"/>
+    <file name="u152-6.png" crc="466893895" ref="index"/>
+    <file name="u149-4.png" crc="4250036072" ref="index"/>
+    <file name="merry-christmas-tag.png" crc="3994320945" seo="true" ref="index"/>
+    <file name="flower bg cropped.jpg" crc="291668945" ref="index"/>
+    <file name="manicure_comb.svg" crc="4054947065" seo="true" ref="index"/>
+    <file name="manicure_comb_poster_.png" crc="496056078" ref="index"/>
+    <file name="manicure_polish.svg" crc="3969614551" seo="true" ref="index"/>
+    <file name="manicure_polish_poster_.png" crc="4134796647" ref="index"/>
+    <file name="dreadlocks.png" crc="302214736" seo="true" ref="index"/>
+    <file name="manicure_cream.svg" crc="533533135" seo="true" ref="index"/>
+    <file name="manicure_cream_poster_.png" crc="3860668753" ref="index"/>
+    <file name="page-div.svg" crc="27659491" seo="true" ref="index"/>
+    <file name="page div_poster_.png" crc="4153627285" ref="index"/>
+    <file name="img_3197.jpg" crc="4171952063" ref="index"/>
+    <file name="spa-logo-option-white-u7903.png" crc="41920386" ref="index"/>
+    <file name="phone.png" crc="138330171" seo="true" ref="index"/>
+    <file name="spa-background.png" crc="147063512" ref="index"/>
+    <file name="img_3186343x229.jpg" crc="3824407854" seo="true" ref="index"/>
+    <file name="img_3223343x229.jpg" crc="307356516" seo="true" ref="index"/>
+    <file name="img_3170343x229.jpg" crc="3800864267" seo="true" ref="index"/>
+    <file name="img_3200343x229.jpg" crc="3994725860" seo="true" ref="index"/>
+    <file name="img_3216343x229.jpg" crc="425928284" seo="true" ref="index"/>
+    <file name="img_3267343x229.jpg" crc="3926850500" seo="true" ref="index"/>
+    <file name="img_3276343x229.jpg" crc="276656149" seo="true" ref="index"/>
+    <file name="img_3283343x229.jpg" crc="71766019" seo="true" ref="index"/>
+    <file name="img_3300343x229.jpg" crc="120450735" seo="true" ref="index"/>
+    <file name="img_3313343x229.jpg" crc="3936535132" seo="true" ref="index"/>
+    <file name="img_3340343x229.jpg" crc="207345828" seo="true" ref="index"/>
+    <file name="img_3379343x229.jpg" crc="3829719009" seo="true" ref="index"/>
+    <file name="img_31861090x727.jpg" crc="4069433027" seo="true" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="img_32231090x727.jpg" crc="3824241524" seo="true" ref="index"/>
+    <file name="img_31701090x727.jpg" crc="334029999" seo="true" ref="index"/>
+    <file name="img_32001090x727.jpg" crc="314790448" seo="true" ref="index"/>
+    <file name="img_32161090x727.jpg" crc="4116041225" seo="true" ref="index"/>
+    <file name="img_32671090x727.jpg" crc="3870729384" seo="true" ref="index"/>
+    <file name="img_32761090x727.jpg" crc="372238004" seo="true" ref="index"/>
+    <file name="img_32831090x727.jpg" crc="4036382951" seo="true" ref="index"/>
+    <file name="img_33001090x727.jpg" crc="4013749272" seo="true" ref="index"/>
+    <file name="img_33131090x727.jpg" crc="3988721725" seo="true" ref="index"/>
+    <file name="img_33401090x727.jpg" crc="271303227" seo="true" ref="index"/>
+    <file name="img_33791090x727.jpg" crc="138351965" seo="true" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="about.svg" crc="4140138714" seo="true" ref="index"/>
+    <file name="about_poster_.png" crc="3888190253" ref="index"/>
+    <file name="blog.svg" crc="240064361" seo="true" ref="index"/>
+    <file name="blog_poster_.png" crc="25809686" ref="index"/>
+    <file name="contact.svg" crc="78078753" seo="true" ref="index"/>
+    <file name="contact_poster_.png" crc="101554396" ref="index"/>
+    <file name="location-icon-01.svg" crc="39655489" seo="true" ref="index"/>
+    <file name="location icon-01_poster_.png" crc="4085811899" ref="index"/>
+    <file name="u13112-62.png" crc="4177352834" ref="index"/>
+    <file name="img_3175-u1647-fr.jpg" crc="483249979" ref="index"/>
+    <file name="u152-62.png" crc="4177352834" ref="index"/>
+    <file name="u149-42.png" crc="425265691" ref="index"/>
+    <file name="merry-christmas-tag-crop-u8812.png" crc="3991091740" ref="index"/>
+    <file name="flower bg cropped-u1375-fr.jpg" crc="243455214" ref="index"/>
+    <file name="dreadlocks109x127.png" crc="190836302" seo="true" ref="index"/>
+    <file name="spa-logo-option-white-u79032.png" crc="3831951199" ref="index"/>
+    <file name="phone-crop-u831.png" crc="402829320" ref="index"/>
+    <file name="spa-background-u884-fr.png" crc="4277922237" ref="index"/>
+    <file name="img_3186916x610.jpg" crc="4029133046" seo="true" ref="index"/>
+    <file name="img_3223916x610.jpg" crc="64602126" seo="true" ref="index"/>
+    <file name="img_3170916x610.jpg" crc="124005932" seo="true" ref="index"/>
+    <file name="img_3200916x610.jpg" crc="480896153" seo="true" ref="index"/>
+    <file name="img_3216916x610.jpg" crc="3952222791" seo="true" ref="index"/>
+    <file name="img_3267916x610.jpg" crc="3835105334" seo="true" ref="index"/>
+    <file name="img_3276916x610.jpg" crc="4141044465" seo="true" ref="index"/>
+    <file name="img_3283916x610.jpg" crc="4093775544" seo="true" ref="index"/>
+    <file name="img_3300916x610.jpg" crc="87782511" seo="true" ref="index"/>
+    <file name="img_3313916x610.jpg" crc="3915642976" seo="true" ref="index"/>
+    <file name="img_3340916x610.jpg" crc="3904335776" seo="true" ref="index"/>
+    <file name="img_3379916x610.jpg" crc="419543748" seo="true" ref="index"/>
+    <file name="img_3175-u1647-fr2.jpg" crc="317450081" ref="index"/>
+    <file name="flower bg cropped-u1375-fr2.jpg" crc="4143018194" ref="index"/>
+    <file name="spa-logo-option-u13113.png" crc="4216644881" ref="index"/>
+    <file name="u13112-63.png" crc="4008659387" ref="index"/>
+    <file name="u13115-4.png" crc="4008431208" ref="index"/>
+    <file name="merry-christmas-tag-crop-u88122.png" crc="29134619" ref="index"/>
+    <file name="dreadlocks-crop-u7746.png" crc="4078762474" ref="index"/>
+    <file name="img_3197-u629-fr.jpg" crc="4075287998" ref="index"/>
+    <file name="spa-logo-option-white-u79033.png" crc="112090999" ref="index"/>
+    <file name="phone-crop-u8312.png" crc="25140747" ref="index"/>
+    <file name="spa-background-u884-fr2.png" crc="258101196" ref="index"/>
+    <file name="img_3186239x160.jpg" crc="3912137440" seo="true" ref="index"/>
+    <file name="img_3223239x160.jpg" crc="4232519225" seo="true" ref="index"/>
+    <file name="img_3170239x160.jpg" crc="4014710031" seo="true" ref="index"/>
+    <file name="img_3200239x160.jpg" crc="482997297" seo="true" ref="index"/>
+    <file name="img_3216239x160.jpg" crc="3956743659" seo="true" ref="index"/>
+    <file name="img_3267239x160.jpg" crc="328722782" seo="true" ref="index"/>
+    <file name="img_3276239x160.jpg" crc="4011632401" seo="true" ref="index"/>
+    <file name="img_3283239x160.jpg" crc="143673169" seo="true" ref="index"/>
+    <file name="img_3300239x160.jpg" crc="4076440274" seo="true" ref="index"/>
+    <file name="img_3313239x160.jpg" crc="4009816866" seo="true" ref="index"/>
+    <file name="img_3340239x160.jpg" crc="414433873" seo="true" ref="index"/>
+    <file name="img_3379239x160.jpg" crc="65933175" seo="true" ref="index"/>
+    <file name="img_3186558x372.jpg" crc="3907590153" seo="true" ref="index"/>
+    <file name="img_3223558x372.jpg" crc="189625709" seo="true" ref="index"/>
+    <file name="img_3170558x372.jpg" crc="4229716589" seo="true" ref="index"/>
+    <file name="img_3200558x372.jpg" crc="367864460" seo="true" ref="index"/>
+    <file name="img_3216558x372.jpg" crc="4091501368" seo="true" ref="index"/>
+    <file name="img_3267558x372.jpg" crc="378517374" seo="true" ref="index"/>
+    <file name="img_3276558x372.jpg" crc="323317519" seo="true" ref="index"/>
+    <file name="img_3283558x372.jpg" crc="59662181" seo="true" ref="index"/>
+    <file name="img_3300558x372.jpg" crc="3952105518" seo="true" ref="index"/>
+    <file name="img_3313558x372.jpg" crc="50098294" seo="true" ref="index"/>
+    <file name="img_3340558x372.jpg" crc="3898085326" seo="true" ref="index"/>
+    <file name="img_3379558x372.jpg" crc="116414064" seo="true" ref="index"/>
+    <file name="beauty-products.jpg" crc="282737293" seo="true" ref="index"/>
+    <file name="beeds---jewelry.jpg" crc="4233293851" seo="true" ref="index"/>
+    <file name="watches.jpg" crc="181283255" seo="true" ref="index"/>
+    <file name="mens-perfumes.jpg" crc="4122043009" seo="true" ref="index"/>
+    <file name="body-splash.jpg" crc="3920436583" seo="true" ref="index"/>
+    <file name="ladies-perfumes.jpg" crc="7209840" seo="true" ref="index"/>
+    <file name="flower bg cropped-u1375-fr3.jpg" crc="3847790780" ref="index"/>
+    <file name="spa-logo-option-u131132.png" crc="4149903153" ref="index"/>
+    <file name="u13112-64.png" crc="342284106" ref="index"/>
+    <file name="u13115-42.png" crc="4285094296" ref="index"/>
+    <file name="img_3197-u629-fr2.jpg" crc="391807488" ref="index"/>
+    <file name="phone-crop-u8313.png" crc="4043102246" ref="index"/>
+    <file name="spa-background-u884-fr3.png" crc="4220191222" ref="index"/>
+    <file name="menu-music.png" crc="238075059" ref="index"/>
+    <file name="cancel-music.png" crc="3994059249" ref="index"/>
+    <file name="png-menu-crop-u18384.png" crc="4139153777" ref="index"/>
+    <file name="png-menu.gif" crc="4199773736" seo="true" ref="index"/>
+    <file name="img_3173-u21736-fr.jpg" crc="4182011199" ref="index"/>
+    <file name="img_3191-u21747-fr.jpg" crc="493313162" ref="index"/>
+    <file name="img_3200-u21759-fr.jpg" crc="4271801856" ref="index"/>
+    <file name="img_3225-u21771-fr.jpg" crc="3975543534" ref="index"/>
+    <file name="img_3262-u21816-fr.jpg" crc="3900671014" ref="index"/>
+    <file name="img_3175-u1647-fr3.jpg" crc="144123617" ref="index"/>
+    <file name="dreadlocks70x82.png" crc="4077977895" seo="true" ref="index"/>
+  </folder>
+  <file name="index.html" crc="4073734110" seo="true" mt="1482491144530" redirect="true"/>
+</manifest>
